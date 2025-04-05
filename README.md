@@ -53,27 +53,6 @@ To run the tests:
 python -m unittest src/test/test_assignment_3.py
 ```
 
-## Expected Output
-
-When running the main script, you should see the following output:
-
-```
-2.0
--1.0
-[ 2. -1.  1.]
-38.99999999999999
-[[1. 0. 0. 0.]
- [2. 1. 0. 0.]
- [3. 4. 1. 0.]
- [-1. -3. 0. 1.]]
-[[1.         1.         0.         3.        ]
- [0.        -1.        -1.        -5.        ]
- [0.         0.         3.        13.        ]
- [0.         0.         0.       -13.        ]]
-True
-True
-```
-
 This matches the expected output from the assignment description.
 
 ## Author
