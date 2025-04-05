@@ -45,16 +45,6 @@ To run the main script from the command line:
 python src/main/assignment_3.py
 ```
 
-### Running the tests
-
-To run the tests:
-
-```bash
-python -m unittest src/test/test_assignment_3.py
-```
-
-This matches the expected output from the assignment description.
-
 ## Author
 
-Shivaganesh Nagamandla
+Shivaganesh Nagamand
