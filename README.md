@@ -47,4 +47,4 @@ python src/main/assignment_3.py
 
 ## Author
 
-Shivaganesh Nagamand
+Shivaganesh Nagamandla
